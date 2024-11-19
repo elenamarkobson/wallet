@@ -2,4 +2,4 @@
 # npm start
 # npm build
 docker config edit
-# run docker 
+# run docker r
